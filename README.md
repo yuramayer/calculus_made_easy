@@ -1,4 +1,4 @@
-# Calculus Made Easy | Перевод на русский
+# Calculus Made Easy | Лёгкое исчисление
 
 Translation of the book "Calculus Made Easy" by Silvanus P. Thompson
 
