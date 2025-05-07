@@ -1,0 +1,25 @@
+site_name: Перевод "Calculus Made Easy"
+
+nav:
+  - Введение: index.md
+  - Пролог: 00. prologue.md
+  - Глава 1: 01.md
+  - Глава 2: 02.md
+  - Глава 3: 03.md
+
+theme:
+  name: material
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+
+extra_css:
+  - https://unpkg.com/katex@0/dist/katex.min.css
